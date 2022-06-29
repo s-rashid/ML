@@ -1,0 +1,13 @@
+{
+  "train": {
+    "images": "train-images-idx3-ubyte.gz",
+    "labels": "train-labels-idx1-ubyte.gz"
+  },
+  "test": {
+    "images": "t10k-images-idx3-ubyte.gz",
+    "labels": "t10k-labels-idx1-ubyte.gz"
+  },
+  "brain": {
+    "filename": ".cache/brain-full-xd.pickle"
+  }
+}
